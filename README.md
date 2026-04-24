@@ -25,6 +25,8 @@ The research explores:
 2. Open `Website_Honeynet.html` in any web browser
 3. Click the on the relevent button to access the the project specs, the research report or the finale report
 
+Link to log files: https://drive.google.com/drive/folders/1NYA9PriFiJxYA17OD0E6fv_7VpeKIHK6?usp=sharing
+
 ---
 
 ## ⚠️ Notes
